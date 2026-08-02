@@ -71,12 +71,12 @@ def truthy(value: str | None) -> bool:
 
 
 def page_title(meta: dict[str, str]) -> str:
-    title = meta.get("title", "Political Will Map")
+    title = meta.get("title", "AI Treaty Map")
     if truthy(meta.get("full_title")):
         return title
     if meta.get("output") == "index.html" or meta.get("slug") == "index":
         return title
-    return f"{title} — Political Will Map"
+    return f"{title} — AI Treaty Map"
 
 
 def build_one(md_path: Path) -> Path:
