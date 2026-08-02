@@ -6,7 +6,7 @@ parents: true
 
 # Policy work
 
-This is one of the most important current gaps in my knowledge, and is the next page I intend to flesh out more.
+This is one of the most important current gaps in this map, and is the top priority to flesh out more.
 
 ## Top external resources
 

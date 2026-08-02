@@ -6,7 +6,9 @@ parents: true
 
 # Treaty Proposals
 
-This project is mostly not focused on research that works out the fine details of an ideal treaty. Instead, it focuses on these insofar as they are useful for finding concrete policies to try to get decisionmakers to push for (i.e. what helps long-term that’s closer to the Overton Window?), and insofar as they help with seeing how work fits into the ultimate goal of mitigating catastrophic and existential risks from AI. This page needs more on short-term proposals/goals.
+Shorter-term proposals are important to understand insofar as they are useful for finding concrete policies to try to get decisionmakers to push for (i.e. what helps long-term that’s closer to the Overton Window?), and longer-term proposals insofar as they help with seeing how work fits into the ultimate goal of mitigating catastrophic and existential risks from AI. Many great policy/treaty ideas are bottlenecked by working out the exact details of their implementation in writing.
+
+This page needs more details on the specific red lines currently being suggested by various groups.
 
 ## Top external resources
 

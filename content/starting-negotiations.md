@@ -6,6 +6,12 @@ parents: true
 
 # Starting treaty negotiations
 
-Perhaps this doesn’t deserve a standalone page, but one of the current gaps in my knowledge is more details on the conditions that lead to negotiations for concrete international treaties starting in the first place. My current understanding is that leaders of the most influential countries (mainly US and China, then the rest of the G7 countries) need to be pushing for it at relevant summits, dialogues, UN General Assemblies, conferences, intergovernmental forums, etc., or start new initiatives for these dialogues to happen. Any more detail than that I don’t really know yet. Filling this gap is currently of low priority to me because it seems like understanding it beyond that isn’t very important for the difference most people can make, and the lesson is essentially “figure out how to get the leaders of the US, China, and the rest of the G7 countries to push for this”, but I might be missing something.
+Generally, to start treaty negotiations, leaders of the most influential countries (mainly US and China, followed by the rest of the G7 countries) need to be pushing for it at relevant summits, dialogues, UN General Assemblies, conferences, intergovernmental forums, etc., or start new initiatives for these dialogues to happen. 
+
+This page should go more into detail on these events, their outcomes thus far, specific countries' leadership's positions on an AI treaty, what could be expected to get more leaders on-board, etc. Also needs more external resources. It should perhaps be merged with or have more to differentiate it from [International AI negotiations](negotiations.html).
 
 ## Top external resources
+- [AI Safety Summits](https://futureoflife.org/project/ai-safety-summits/)
+- [UN Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en)
+- [G7 Hiroshima AI Process](https://www.soumu.go.jp/hiroshimaaiprocess/en/index.html)
+- [AI Safety Connect](https://www.aisafetyconnect.org)

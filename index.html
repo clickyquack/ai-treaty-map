@@ -37,45 +37,47 @@
   <header>
     <p class="site-title"><a href="index.html">AI Treaty Map</a></p>
     <nav>
-      <a class="nav-home" href="../index.html">clickyquack</a>
+      <a href="index.html">Main Page</a> ·
       <a href="about.html">About</a> ·
-      <a href="index.html">Map</a> ·
-      <a href="negotiations.html">Negotiations</a> ·
-      <a href="treaty-proposals.html">Treaty/policy proposals</a> ·
-      <a href="starting-negotiations.html">Starting negotiations</a> ·
-      <a href="policy-work.html">Policy work</a> ·
-      <a href="advocacy.html">Advocacy</a> ·
-      <a href="warning-shots.html">Warning shots</a>
+      <a href="contribution-guide.html">Contribution guide</a> ·
+      <details class="nav-dropdown">
+        <summary>List of pages</summary>
+        <ul>
+          <li><a href="negotiations.html">International AI negotiations</a></li>
+          <li><a href="treaty-proposals.html">Treaty/policy proposals</a></li>
+          <li><a href="starting-negotiations.html">Starting negotiations</a></li>
+          <li><a href="policy-work.html">Policy work</a></li>
+          <li><a href="advocacy.html">Advocacy</a></li>
+          <li><a href="warning-shots.html">Warning shots</a></li>
+        </ul>
+      </details>
     </nav>
   </header>
 
   <main>
 <h1>AI Treaty Map</h1>
 <p>Here’s my current top-level map<sup><a href="#fn1">1</a></sup> of how we get to an effective international AI treaty:</p>
-<p class="diagram-note">Click the lavender “See:” boxes (or the linked labels inside them) to open the matching sub-pages.</p>
+<p class="diagram-note">Click the linked labels in the diagram to open the matching sub-pages.</p>
 
 <div class="diagram-wrap">
   <pre class="mermaid">
 flowchart BT
-  classDef main fill:#cfe2f3,stroke:#111,color:#111
-  classDef see fill:#d9d2e9,stroke:#111,color:#111,rx:10,ry:10
+  classDef main fill:#d9e9ff,stroke:#111,color:#111
 
-  inputs["Policy work, advocacy, warning shots, etc."]
-  leaders["Many leaders of the most influential nations pushing for it"]
-  nego["Negotiations to work out the specifics"]
+  policy["&lt;a href='policy-work.html'&gt;Policy work&lt;/a&gt;"]
+  advocacy["&lt;a href='advocacy.html'&gt;Advocacy&lt;/a&gt;"]
+  warning["&lt;a href='warning-shots.html'&gt;Warning shots/Crises&lt;/a&gt;"]
+  leaders["Many leaders of the most influential nations &lt;a href='starting-negotiations.html'&gt;pushing for it&lt;/a&gt;"]
+  nego["&lt;a href='negotiations.html'&gt;Negotiations&lt;/a&gt; to work out &lt;a href='treaty-proposals.html'&gt;the specifics&lt;/a&gt;"]
   treaty["International AI Treaty"]
 
-  see1["See: &lt;a href='policy-work.html'&gt;Policy work&lt;/a&gt;, &lt;a href='advocacy.html'&gt;Advocacy&lt;/a&gt;, &lt;a href='warning-shots.html'&gt;Warning shots&lt;/a&gt;"]
-  see2["See: &lt;a href='starting-negotiations.html'&gt;Starting treaty negotiations&lt;/a&gt;"]
-  see3["See: &lt;a href='negotiations.html'&gt;International AI negotiations&lt;/a&gt;, &lt;a href='treaty-proposals.html'&gt;Treaty/policy proposals&lt;/a&gt;"]
+  policy --> leaders
+  advocacy --> leaders
+  warning --> leaders
+  leaders --> nego
+  nego --> treaty
 
-  inputs --> leaders --> nego --> treaty
-  inputs -.-> see1
-  leaders -.-> see2
-  nego -.-> see3
-
-  class inputs,leaders,nego,treaty main
-  class see1,see2,see3 see
+  class policy,advocacy,warning,leaders,nego,treaty main
   </pre>
 </div>
 

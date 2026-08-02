@@ -10,7 +10,7 @@ full_title: true
 
 Here’s my current top-level map<sup><a href="#fn1">1</a></sup> of how we get to an effective international AI treaty:
 
-<p class="diagram-note">Click the lavender “See:” boxes (or the linked labels inside them) to open the matching sub-pages.</p>
+<p class="diagram-note">Click the linked labels in the diagram to open the matching sub-pages.</p>
 
 <!-- include: map-diagram.html -->
 

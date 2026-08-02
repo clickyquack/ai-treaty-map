@@ -6,7 +6,7 @@ parents: true
 
 # Advocacy
 
-Eventually this page should break down different types of advocacy and try to evaluate the impact they have. For example: directly targeting lawmakers, targeting the general public, holding protests, making open statements and collecting signatures for them, the especially strong voices that frontier AI labs and their employees have, news media, etc.
+This page should be expanded to break down different types of advocacy and try to evaluate the impact they have, and that specific cases have had. For example: directly targeting lawmakers, targeting the general public, holding protests, making open statements and collecting signatures for them, the especially strong voices that frontier AI labs and their employees have, news media, etc.
 
 From [ControlAI’s 2025 Impact Report](https://controlai.org/impact-report-2025):
 

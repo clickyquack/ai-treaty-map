@@ -6,7 +6,7 @@ parents: true
 
 # Warning Shots
 
-Eventually the article for this page would presumably have more written and/or linked to here about how warning shots shape policy in general, past specific warning shots and their impact, what lessons can be learned from this, what lessons can be learned from similar historical precedents, what else should be worked on in light of this information, etc.
+This page should distill insights from the linked resources, and perhaps add more.
 
 ## Top external resources
 
